@@ -22,7 +22,7 @@ In this project i practiced Jquery syntax:
 
 ## Demo 🎥
 
-The completed project can be viewed [here](https://gnobious.github.io/jquerry-exercise/ "demo url")
+The completed project can be viewed [here](https://rimerian.github.io/jquerry-exercise/ "demo url")
 
 ## How to Use 🔧
 
